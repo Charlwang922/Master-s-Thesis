@@ -1,0 +1,52 @@
+File Manifest for ICPSR 37816
+
+United States. Bureau of Justice Statistics. National Crime Victimization
+Survey: School Crime Supplement, [United States], 2019. ICPSR37816-v1. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2021-06-08. http://doi.org/10.3886/ICPSR37816.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37816-descriptioncitation.pdf       -       -         -       2021-06-08  -
+
+    37816-related_literature.txt        -       -         -       daily       -
+
+    37816-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 National Crime Victimization Survey: School Crime Supplement,
+[United States], 2019
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37816-0001-Codebook.pdf             -       -         -       2021-06-08  d037b19bc9b2915fd3b16a40b5e34998
+
+    37816-0001-Data.dta                 -       14,273    5892    2021-06-08  e9e3327ddbf1e2ec8af715c71905b7c7
+
+    37816-0001-Data.rda                 -       14,273    5892    2021-06-08  7c045b075d18059e3402b05f2a2ad20c
+
+    37816-0001-Data.sav                 -       14,273    5892    2021-06-08  51130e3163ee9be49ba40881bbfe4f80
+
+    37816-0001-Data.stc                 -       14,273    5892    2021-06-08  7f38915b5ac715cb5d7780330bdd282b
+
+    37816-0001-Data.tsv                 -       14,273    5892    2021-06-08  e56ba7b516933e0767d330c43cd91b75
+
+    37816-0001-Data.txt                 8391    14,273    5892    2021-06-08  0cc314fc3524a2f06c5e6126fb83fbba
+
+    37816-0001-Setup.dct                -       -         -       2021-06-08  0ac965b160922693cbfb7276b1462b46
+
+    37816-0001-Setup.do                 -       -         -       2021-06-08  3e1ae383021fe09db0bd2fbe56f580dd
+
+    37816-0001-Setup.sas                -       -         -       2021-06-08  335cb0add09c2a5997baa10e2b418bba
+
+    37816-0001-Setup.sps                -       -         -       2021-06-08  13530d886a0cf47275094be5d996da3f
+
+    37816-0001-Supplemental_syntax.do   -       -         -       2021-06-08  77d9dc20b6293f676f96874304ec21f4
+
+    37816-0001-Supplemental_syntax.sas  -       -         -       2021-06-08  3acf3a4536651e5616efafc99ea86d3e
+

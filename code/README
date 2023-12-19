@@ -1,0 +1,7 @@
+data.csv contains all bullying related questions and featuring question for ML prediction. The variable names is written by survey related code. 
+
+data_ml.csv contains only features and target for ML model. This dataframe is created from data.csv in data_Description.ipynb
+
+data_description.ipynb contains code for data description statistics in Data section, and contains code for selecting and merging questions into feature variables, and clean the data and save it as df_ml.csv. 
+
+feature_importance.ipynb plots SHAP summary plots and SHAP value for each specific features.

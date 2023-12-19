@@ -1,0 +1,41 @@
+Bibliography
+National Crime Victimization Survey: School Crime Supplement, [United
+States], 2019
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37816. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Burns, Erin; Zolnik, Edmund; Yanez, Christina; Mann, Rebecca; Hansen,
+Rachel, "Testing New Items About Bullying and Other School Experiences in
+the 2019 School Crime Supplement to the National Crime Victimization
+Survey." Survey Documentation. Washington, DC: Institute of Education
+Sciences, Jul 2022.
+Full text PDF: https://nces.ed.gov/pubs2022/2022033.pdf
+
+2. Fogleman, Trevor, "How Experiencing Gun Violence in U.S. Schools Impacts
+Student Academic Achievement." Spr 2023..
+Full text PDF: https://shareok.org/bitstream/handle/11244/337753/oksd_fogleman_how_experiencing_gun_violence_2023.pdf?sequence=1
+
+3. Irwin, Veronique; Wang, Ke; Cui, Jiashan; Thompson, Alexandra, "Report
+on Indicators of School Crime and Safety: 2021." NCES 2022-092. NCJ 304625,
+Washington, DC: National Center for Education Statistics, Jun 2022.
+Abstract: https://www.hsdl.org/?abstract&did=868740
+
+4. Irwin, Veronique; Wang, Ke; Cui, Jiashan; Zhang, Jizhi; Thompson,
+Alexandra, "Report on Indicators of School Crime and Safety: 2020." NCES
+2021-092. NCJ 300772, Washington, DC: National Center for Education
+Statistics, 2021.
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/iscs20.pdf
+
+5. Joo, HyunGyung; Lee, Hyemi; Rodriguez, Bianca, "Trends in bias-based
+bullying from 2015 to 2019 and the associations among bias-based bullying,
+school avoidance, and supportive adults at school." Journal of School
+Violence. In press 2023,. DOI: 10.1080/15388220.2023.2248875
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/iscs20.pdf
